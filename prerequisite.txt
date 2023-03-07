@@ -1,0 +1,6 @@
+numpy=='1.23.3'
+requests=='2.21.0'
+matplotlib=='3.6.0'
+gzip
+os
+hashlib
